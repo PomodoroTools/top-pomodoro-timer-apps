@@ -21,6 +21,7 @@ Web
 ----
 
 - [Pomodoro Tools](https://pomodoro.tools) - The Best Web-based Pomodoro Timer App
+- [Paceflow Pomodoro Timer](https://www.paceflow.io/pomodoro-timer) - Free online focus timer with customizable work and break intervals and shareable timer settings.
 
 Android
 --------
