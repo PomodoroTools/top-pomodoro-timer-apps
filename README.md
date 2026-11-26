@@ -35,6 +35,7 @@ iOS (iPhone & iPad)
 --------------------
 
 - **Be Focused** - Simple and effective Pomodoro timer with task tracking, supporting both timed work sessions and to-do lists.
+- **NoMo** - An iPhone Pomodoro timer that blocks selected apps and awards coins for building a village after completed focus sessions.
 - **Focus Keeper** - Customizable Pomodoro timer, intended to keep you motivated and focused without burnout, with progress charts included.
 - **Tide** - A Pomodoro app that incorporates natural sounds and white noise to boost focus, providing a relaxing environment for productivity.
 - **Focus Booster** - Designed for freelancers and small teams, this app is useful for time tracking and integrates timesheets for reporting.
